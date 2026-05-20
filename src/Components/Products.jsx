@@ -10,9 +10,6 @@ import 'swiper/css';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 
-
-
-
 export const Products = ({ data, title }) => {
 
   return (

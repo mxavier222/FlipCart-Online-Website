@@ -6,7 +6,6 @@ import b4 from '../assets/Banner/4.webp'
 import b5 from '../assets/Banner/5.webp'
 // import Swiper core and required modules
 import {  Pagination,  A11y } from 'swiper/modules';
-
 import { Swiper, SwiperSlide } from 'swiper/react';
 
 // Import Swiper styles

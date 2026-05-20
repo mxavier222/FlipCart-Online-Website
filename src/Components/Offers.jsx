@@ -10,7 +10,6 @@ export const Offers = () => {
     let offerArr = [o1,o2,o3,o4,o5,o6]
     
   return (
-    
     <div className='w-full p-4 bg-[#f1f2f4]'>
          
           <h2 className='text-2xl font-bold px-2.5 mb-4'>

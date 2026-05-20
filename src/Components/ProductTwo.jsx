@@ -74,7 +74,6 @@ let products = [
         price : "21,999",
         img : p9
     },
-
 ]
 
 export const ProductTwo = ({  title }) => {

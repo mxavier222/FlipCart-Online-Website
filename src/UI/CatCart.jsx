@@ -7,4 +7,5 @@ export default function CatCart({name,img}) {
       <h1 className='text-center text-sm font-medium'>{name}</h1>
     </div>
   )
+  
 }

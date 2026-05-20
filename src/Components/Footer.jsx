@@ -6,4 +6,5 @@ export const Footer = () => {
         <p className='text-center text-white text-sm font-medium pt-4'>FlipCart All © 2007-2025 Flipkart.com</p>
     </div>
   )
+  
 }

@@ -57,7 +57,6 @@ export default function Categories() {
             return <CatCart name={obj.name} img={obj.img} />
           })
         }
-    
     </div>
     </div>
   )
