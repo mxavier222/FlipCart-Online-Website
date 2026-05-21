@@ -37,7 +37,7 @@ export const Banner = () => {
         })}
      
     </Swiper>
-       
+    
     </div>
   );
 }
